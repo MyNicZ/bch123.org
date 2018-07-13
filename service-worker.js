@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d0293fe345cf24618a12ca642ec2421a.js"
+  "/precache-manifest.7f7c052a6d2fb40037c0c71d07a1bb51.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bch123.org"});
