@@ -13,7 +13,7 @@
 
 importScripts(
   "https://cdn.jsdelivr.net/npm/workbox-sw@latest/build/workbox-sw.min.js",
-  "/precache-manifest.f3736c857995300ddeea2d6e35f75893.js"
+  "/precache-manifest.48e284db367df5c6bae40726a4507c62.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bch123.org"});
