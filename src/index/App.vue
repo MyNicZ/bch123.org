@@ -16,7 +16,7 @@
         router-view(v-if='$route.meta.keepAlive')
       transition(name='fade', v-if='!$route.meta.keepAlive')
         router-view
-    Footer.layout-footer-center @{{(new Date().getFullYear())}} © BCH123.org 
+    Footer.layout-footer-center @{{(new Date().getFullYear())}} © bch.oaker.bid 
 </div>
 </template>
 
@@ -42,7 +42,7 @@ export default {
     share () {
       navigator
         .share({
-          title: 'BCH123.org',
+          title: 'bch.oaker.bid',
           text: '',
           url: window.location.href
         })
@@ -58,7 +58,7 @@ export default {
         this.currentView = this.isHandle(id) ? 'handle' : 'address'
       } else {
         this.currentView = null
-        document.title = 'BCH123_' + this.$t('home.title')
+        document.title = 'BCH_' + this.$t('home.title')
       }
     },
   },

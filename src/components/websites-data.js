@@ -14,7 +14,7 @@ export default {
   },
   行情: {
     content: [
-      { title: '币值轻快版', url: 'https://coin.bch123.org/' },
+      { title: '币值轻快版', url: 'https://coin.bch.oaker.bid/' },
       {
         title: '加密货币市值',
         desc: 'Cryptocurrency Market Capitalizations | CoinMarketCap',

@@ -50,7 +50,7 @@ const translations = {
   },
   en: {
     home: {
-      title: 'BCH123',
+      title: 'BCH',
       about: 'About',
       aboutTitle: 'Donate to the developer (BCH)',
       mobile: 'Mobile&Wechat',

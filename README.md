@@ -1,6 +1,6 @@
-# BCH123.org
+# bch.oaker.bid
 
-Live site：[BCH123.org](https://bch123.org/)
+Live site：[bch.oaker.bid](https://bch.oaker.bid/)
 
 ## Development
 
@@ -26,5 +26,5 @@ npm run build
 
 ## Forever Alive
 ```sh
-pm2 start npm --name bch123-maintain -- run maintain
+pm2 start npm --name BCH-maintain -- run maintain
 ```
