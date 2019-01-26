@@ -13,10 +13,10 @@
 
 importScripts(
   "https://cdn.jsdelivr.net/npm/workbox-sw@latest/build/workbox-sw.min.js",
-  "/precache-manifest.8422f789b4d3405a5e69f64c475cc298.js"
+  "/precache-manifest.a505fff0d2e68900146db7ecd57d66f1.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "bch123.org"});
+workbox.core.setCacheNameDetails({prefix: "bch.oaker.bid"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
